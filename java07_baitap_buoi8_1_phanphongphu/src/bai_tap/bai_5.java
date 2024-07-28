@@ -75,7 +75,6 @@ public class bai_5 {
 	}
 	public static void inDanhSach(ArrayList<Integer> danhSach, Scanner banPhim) {
 		System.out.print("Danh sách phần tử: ");
-
-			System.out.print(danhSach);
+		System.out.print(danhSach);
 	}
 }
